@@ -1,5 +1,7 @@
 # PublicBellBoi
 
+## Please note that information such as tokens and credentials have been removed for security purposes.
+
 What is BellBoi?
 
 BellBoi is a service created to make it easier to find out how much time is left until the next period begins or ends.
